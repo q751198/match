@@ -10,7 +10,7 @@ const config = {
     width: 800,
     height: 600,
     backgroundColor: '#008eb0',
-    parent: 'phaser-example',
+    parent: 'game',
     scene: [ Boot, Preloader, MainMenu, MainGame ]
 };
 
